@@ -27,5 +27,9 @@
   "overrides": {
     "$react": "$react",
     "$react-dom": "$react-dom"
+  },
+  "author": {
+    "name": "ChainSage",
+    "email": "iagocech2056@gmail.com"
   }
 }
